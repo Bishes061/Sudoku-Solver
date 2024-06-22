@@ -10,6 +10,3 @@ This is a simple web-based Sudoku solver. It fetches a Sudoku puzzle from an API
 ## How to Use
 - Click "Get Puzzle" to fetch a new Sudoku puzzle.
 - Click "Solve Puzzle" to solve the fetched puzzle.
-
-## Credits
-This project was created by [Your Name].
