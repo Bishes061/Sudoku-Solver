@@ -1,6 +1,7 @@
 # Sudoku Solver
 
 This is a simple web-based Sudoku solver. It fetches a Sudoku puzzle from an API and solves it.
+Can access the web interface through -> https://sudoku-solver-snowy.vercel.app/
 
 ## Files
 - `index.html`: The main HTML file.
